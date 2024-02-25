@@ -1,0 +1,19 @@
+{
+  "name": "three-js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "lil-gui": "^0.19.1",
+    "three": "^0.161.0"
+  }
+}
